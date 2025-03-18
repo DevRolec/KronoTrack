@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+:root {
+  --primary: #B700DD;
+  --bgDark: #000000;
+  --bgLight: #C4C4C4;
+  --bgLight2: #E7C9ED;
+}
