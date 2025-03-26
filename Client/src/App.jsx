@@ -1,6 +1,6 @@
 import React from 'react'
-import Nav from '../src/Components/Nav/Nav';
-import {BrowserRouter, Routes, Route} from "react-router-dom"
+import Home from '../src/Pages/Home/Main';
+import Hero from '../src/Components/Hero/Hero';
 
 
 
@@ -11,7 +11,8 @@ const App = () => {
   return (
  
     <div>
-       <Nav />
+      <Hero />
+       <Home />
     </div>
      
       
